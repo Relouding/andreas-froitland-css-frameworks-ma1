@@ -1,0 +1,59 @@
+body {
+    background-color: $background-color;
+}
+
+h1 {
+    font-family: open sans;
+    font-size: 2.125rem;
+    color: $brown !important;
+    margin-top: 1.5rem;
+}
+
+.navbar-brand {
+    font-family: open sans;
+    font-size: 2.25rem;
+    color: $black !important;
+}
+
+.nav-link {
+    font-family: open sans;
+}
+
+.mr-24 {
+    margin: 1rem 1rem 1rem 1rem;
+}
+
+.mr-100 {
+    margin-bottom: 100px;
+}
+
+.row {
+    justify-content: space-between;
+}
+
+.col-md {
+    height: 265px;
+    width: 265px;
+    border-radius: 0.5rem;
+}
+
+.bg-pink {
+    background-color: $pink;
+}
+
+.bg-white {
+    background-color: $white;
+}
+
+.br-pink {
+    border-color: $pink;
+}
+
+.br-white {
+    border-color: $white;
+}
+
+.col-br {
+    border-style: solid;
+    border-width: 3px;
+}
